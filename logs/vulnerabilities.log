@@ -1,0 +1,155 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-442-939
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:26:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:26:15] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:26:28] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:26:28] "GET /results HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:26:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:27:16] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:27:16] "GET /results HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:28:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:28:12] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:28:12] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:33:05,614 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-29 15:33:05,615 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-29 15:33:05,616 - INFO -  * Restarting with stat
+2025-07-29 15:33:06,027 - WARNING -  * Debugger is active!
+2025-07-29 15:33:06,030 - INFO -  * Debugger PIN: 276-442-939
+2025-07-29 15:33:18,257 - INFO - 127.0.0.1 - - [29/Jul/2025 15:33:18] "GET / HTTP/1.1" 200 -
+2025-07-29 15:33:23,216 - INFO - 127.0.0.1 - - [29/Jul/2025 15:33:23] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:33:23,262 - INFO - 127.0.0.1 - - [29/Jul/2025 15:33:23] "[35m[1mGET /results HTTP/1.1[0m" 500 -
+2025-07-29 15:33:23,547 - INFO - 127.0.0.1 - - [29/Jul/2025 15:33:23] "GET /results?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-29 15:33:23,551 - INFO - 127.0.0.1 - - [29/Jul/2025 15:33:23] "GET /results?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-07-29 15:33:23,561 - INFO - 127.0.0.1 - - [29/Jul/2025 15:33:23] "GET /results?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-07-29 15:33:23,603 - INFO - 127.0.0.1 - - [29/Jul/2025 15:33:23] "GET /results?__debugger__=yes&cmd=resource&f=console.png&s=rbtKmAJ6rSVKsLwFJ7iz HTTP/1.1" 200 -
+2025-07-29 15:33:23,632 - INFO - 127.0.0.1 - - [29/Jul/2025 15:33:23] "GET /results?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-07-29 15:35:26,024 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-29 15:35:26,024 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-29 15:35:26,025 - INFO -  * Restarting with stat
+2025-07-29 15:35:26,398 - WARNING -  * Debugger is active!
+2025-07-29 15:35:26,402 - INFO -  * Debugger PIN: 276-442-939
+2025-07-29 15:35:36,512 - INFO - 127.0.0.1 - - [29/Jul/2025 15:35:36] "GET / HTTP/1.1" 200 -
+2025-07-29 15:35:41,202 - INFO - 127.0.0.1 - - [29/Jul/2025 15:35:41] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:35:41,225 - INFO - 127.0.0.1 - - [29/Jul/2025 15:35:41] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:35:43,748 - INFO - 127.0.0.1 - - [29/Jul/2025 15:35:43] "GET / HTTP/1.1" 200 -
+2025-07-29 15:37:50,461 - INFO - 127.0.0.1 - - [29/Jul/2025 15:37:50] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:38:54,454 - INFO - 127.0.0.1 - - [29/Jul/2025 15:38:54] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:38:55,086 - INFO - 127.0.0.1 - - [29/Jul/2025 15:38:55] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:38:55,165 - INFO - 127.0.0.1 - - [29/Jul/2025 15:38:55] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:38:55,171 - INFO - 127.0.0.1 - - [29/Jul/2025 15:38:55] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:38:55,564 - INFO - 127.0.0.1 - - [29/Jul/2025 15:38:55] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:39:05,307 - INFO - 127.0.0.1 - - [29/Jul/2025 15:39:05] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:39:06,462 - INFO - 127.0.0.1 - - [29/Jul/2025 15:39:06] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:39:06,615 - INFO - 127.0.0.1 - - [29/Jul/2025 15:39:06] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:39:06,755 - INFO - 127.0.0.1 - - [29/Jul/2025 15:39:06] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:39:06,978 - INFO - 127.0.0.1 - - [29/Jul/2025 15:39:06] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:39:08,248 - INFO - 127.0.0.1 - - [29/Jul/2025 15:39:08] "GET / HTTP/1.1" 200 -
+2025-07-29 15:39:14,290 - INFO - 127.0.0.1 - - [29/Jul/2025 15:39:14] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:39:14,295 - INFO - 127.0.0.1 - - [29/Jul/2025 15:39:14] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:40:30,085 - INFO -  * Detected change in 'C:\\Users\\suman\\OneDrive\\Desktop\\webapplicationscanner\\app.py', reloading
+2025-07-29 15:40:30,118 - INFO -  * Detected change in 'C:\\Users\\suman\\OneDrive\\Desktop\\webapplicationscanner\\app.py', reloading
+2025-07-29 15:40:30,138 - INFO -  * Restarting with stat
+2025-07-29 15:40:30,201 - INFO -  * Restarting with stat
+2025-07-29 15:40:30,601 - WARNING -  * Debugger is active!
+2025-07-29 15:40:30,604 - INFO -  * Debugger PIN: 276-442-939
+2025-07-29 15:40:30,619 - WARNING -  * Debugger is active!
+2025-07-29 15:40:30,623 - INFO -  * Debugger PIN: 276-442-939
+2025-07-29 15:40:41,596 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-29 15:40:41,596 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-29 15:40:41,599 - INFO -  * Restarting with stat
+2025-07-29 15:40:41,980 - WARNING -  * Debugger is active!
+2025-07-29 15:40:41,983 - INFO -  * Debugger PIN: 276-442-939
+2025-07-29 15:40:51,883 - INFO - 127.0.0.1 - - [29/Jul/2025 15:40:51] "GET / HTTP/1.1" 200 -
+2025-07-29 15:40:56,665 - INFO - 127.0.0.1 - - [29/Jul/2025 15:40:56] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:40:56,680 - INFO - 127.0.0.1 - - [29/Jul/2025 15:40:56] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:41:33,460 - INFO - 127.0.0.1 - - [29/Jul/2025 15:41:33] "GET / HTTP/1.1" 200 -
+2025-07-29 15:41:38,628 - WARNING - Request to http://testphp.vulnweb.com/search.php?test=query failed: name 'is_vulnerable' is not defined
+2025-07-29 15:41:39,378 - WARNING - Request to http://testphp.vulnweb.com/search.php?test=query failed: name 'is_vulnerable' is not defined
+2025-07-29 15:41:40,413 - WARNING - Request to http://testphp.vulnweb.com/search.php?test=query failed: name 'is_vulnerable' is not defined
+2025-07-29 15:41:41,469 - WARNING - Request to http://testphp.vulnweb.com/search.php?test=query failed: name 'is_vulnerable' is not defined
+2025-07-29 15:41:41,470 - INFO - [!] CSRF at http://testphp.vulnweb.com/search.php?test=query | Severity: Medium | Evidence: CSRF detection simulated (token missing).
+2025-07-29 15:41:41,471 - INFO - 127.0.0.1 - - [29/Jul/2025 15:41:41] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:41:41,481 - INFO - 127.0.0.1 - - [29/Jul/2025 15:41:41] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:42:13,362 - INFO - 127.0.0.1 - - [29/Jul/2025 15:42:13] "GET / HTTP/1.1" 200 -
+2025-07-29 15:42:18,741 - WARNING - Request to http://testphp.vulnweb.com/search.php?test=query failed: name 'is_vulnerable' is not defined
+2025-07-29 15:42:19,489 - WARNING - Request to http://testphp.vulnweb.com/search.php?test=query failed: name 'is_vulnerable' is not defined
+2025-07-29 15:42:20,349 - WARNING - Request to http://testphp.vulnweb.com/search.php?test=query failed: name 'is_vulnerable' is not defined
+2025-07-29 15:42:21,170 - WARNING - Request to http://testphp.vulnweb.com/search.php?test=query failed: name 'is_vulnerable' is not defined
+2025-07-29 15:42:21,171 - INFO - [!] CSRF at http://testphp.vulnweb.com/search.php?test=query | Severity: Medium | Evidence: CSRF detection simulated (token missing).
+2025-07-29 15:42:21,172 - INFO - 127.0.0.1 - - [29/Jul/2025 15:42:21] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:42:21,179 - INFO - 127.0.0.1 - - [29/Jul/2025 15:42:21] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:44:05,036 - INFO -  * Detected change in 'C:\\Users\\suman\\OneDrive\\Desktop\\webapplicationscanner\\app.py', reloading
+2025-07-29 15:44:05,037 - INFO -  * Detected change in 'C:\\Users\\suman\\OneDrive\\Desktop\\webapplicationscanner\\app.py', reloading
+2025-07-29 15:44:05,095 - INFO -  * Restarting with stat
+2025-07-29 15:44:05,095 - INFO -  * Restarting with stat
+2025-07-29 15:44:05,145 - INFO -  * Detected change in 'C:\\Users\\suman\\OneDrive\\Desktop\\webapplicationscanner\\app.py', reloading
+2025-07-29 15:44:05,201 - INFO -  * Restarting with stat
+2025-07-29 15:44:05,550 - WARNING -  * Debugger is active!
+2025-07-29 15:44:05,555 - INFO -  * Debugger PIN: 276-442-939
+2025-07-29 15:44:05,573 - WARNING -  * Debugger is active!
+2025-07-29 15:44:05,576 - INFO -  * Debugger PIN: 276-442-939
+2025-07-29 15:44:05,692 - WARNING -  * Debugger is active!
+2025-07-29 15:44:05,696 - INFO -  * Debugger PIN: 276-442-939
+2025-07-29 15:44:17,012 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-29 15:44:17,012 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-29 15:44:17,015 - INFO -  * Restarting with stat
+2025-07-29 15:44:17,378 - WARNING -  * Debugger is active!
+2025-07-29 15:44:17,382 - INFO -  * Debugger PIN: 276-442-939
+2025-07-29 15:44:41,854 - INFO - 127.0.0.1 - - [29/Jul/2025 15:44:41] "GET / HTTP/1.1" 200 -
+2025-07-29 15:44:57,121 - ERROR - Error crawling http://testphp.vulnweb.com: name 'is_vulnerable' is not defined
+2025-07-29 15:44:57,122 - INFO - 127.0.0.1 - - [29/Jul/2025 15:44:57] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:44:57,140 - INFO - 127.0.0.1 - - [29/Jul/2025 15:44:57] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:45:27,420 - INFO - 127.0.0.1 - - [29/Jul/2025 15:45:27] "GET / HTTP/1.1" 200 -
+2025-07-29 15:45:32,858 - ERROR - Error crawling http://testphp.vulnweb.com/listproducts.php?cat=1: name 'is_vulnerable' is not defined
+2025-07-29 15:45:32,859 - INFO - 127.0.0.1 - - [29/Jul/2025 15:45:32] "[32mPOST / HTTP/1.1[0m" 302 -
+2025-07-29 15:45:32,866 - INFO - 127.0.0.1 - - [29/Jul/2025 15:45:32] "GET /results HTTP/1.1" 200 -
+2025-07-29 15:48:08,958 - INFO -  * Detected change in 'C:\\Users\\suman\\OneDrive\\Desktop\\webapplicationscanner\\app.py', reloading
+2025-07-29 15:48:08,976 - INFO -  * Detected change in 'C:\\Users\\suman\\OneDrive\\Desktop\\webapplicationscanner\\app.py', reloading
+2025-07-29 15:48:08,981 - INFO -  * Detected change in 'C:\\Users\\suman\\OneDrive\\Desktop\\webapplicationscanner\\app.py', reloading
+2025-07-29 15:48:09,062 - INFO -  * Restarting with stat
+2025-07-29 15:48:09,085 - INFO -  * Restarting with stat
+2025-07-29 15:48:09,086 - INFO -  * Restarting with stat
+2025-07-29 15:48:09,658 - INFO -  * Detected change in 'C:\\Users\\suman\\OneDrive\\Desktop\\webapplicationscanner\\app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+2025-07-29 15:48:09,729 - INFO -  * Restarting with stat
+INFO:werkzeug: * Debugger PIN: 276-442-939
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-442-939
+INFO:werkzeug: * Debugger PIN: 276-442-939
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-442-939
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 276-442-939
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:49:10] "GET / HTTP/1.1" 200 -
+INFO:root:XSS | http://testphp.vulnweb.com/search.php?test=query | <script>alert('XSS')</script> | High
+INFO:root:XSS | http://testphp.vulnweb.com/search.php?test=query | '><script>alert(1)</script> | High
+INFO:root:SQL Injection | http://testphp.vulnweb.com/search.php?test=query | ' OR 1=1-- | High
+INFO:root:SQL Injection | http://testphp.vulnweb.com/search.php?test=query | '; DROP TABLE users; -- | High
+INFO:root:Command Injection | http://testphp.vulnweb.com/search.php?test=query | ; ls | High
+INFO:root:Command Injection | http://testphp.vulnweb.com/search.php?test=query | && whoami | High
+INFO:root:CSRF | http://testphp.vulnweb.com/search.php?test=query | CSRF token missing | Medium
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:49:28] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:49:28] "GET /results HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:50:38] "GET / HTTP/1.1" 200 -
+INFO:root:XSS | http://demo.testfire.net/search.jsp | <script>alert('XSS')</script> | High
+INFO:root:XSS | http://demo.testfire.net/search.jsp | '><script>alert(1)</script> | High
+INFO:root:SQL Injection | http://demo.testfire.net/search.jsp | ' OR 1=1-- | High
+INFO:root:SQL Injection | http://demo.testfire.net/search.jsp | '; DROP TABLE users; -- | High
+INFO:root:Command Injection | http://demo.testfire.net/search.jsp | ; ls | High
+INFO:root:Command Injection | http://demo.testfire.net/search.jsp | && whoami | High
+INFO:root:CSRF | http://demo.testfire.net/search.jsp | CSRF token missing | Medium
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:50:50] "[32mPOST / HTTP/1.1[0m" 302 -
+INFO:werkzeug:127.0.0.1 - - [29/Jul/2025 15:50:50] "GET /results HTTP/1.1" 200 -
